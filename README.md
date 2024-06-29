@@ -6,7 +6,7 @@ We updated the Reproducibility. I hope this will help you to reproduce the resul
 ## 1. Method
 * Overall architecture of the proposed EMCAH-Net. (b) and (c) respectively represent the Efficient Multi-scale Context Aggregation (EMCA) and Modeling Global Representation (MGR) modules.
 
-  ![image](https://github.com/AloneIsland/EMCAM-Net/tree/master/tool/EMCAH-Net.jpg)
+  ![image](https://github.com/AloneIsland/EMCAM-Net/blob/master/tool/EMCAH-Net.jpg)
 
 ## 2. Environment
 
