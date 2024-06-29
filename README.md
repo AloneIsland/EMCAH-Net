@@ -1,10 +1,10 @@
-# EMCAM-Net
-The codes for the work "EMCAM-Net：Efficient Multi-scale Context Aggregation Mixture Network for Medical Image Segmentation" 
+# EMCAH-Net
+The codes for the work "EMCAH-Net：Efficient Multi-scale Context Aggregation HYBRID Network for Medical Image Segmentation" 
 
 We updated the Reproducibility. I hope this will help you to reproduce the results.
 
 ## 1. Method
-* Overall architecture of the proposed EMCAM-Net. (b) and (c) respectively represent the Efficient Multi-scale Context Aggregation (EMCA) and Modeling Global Representation (MGR) modules.
+* Overall architecture of the proposed EMCAH-Net. (b) and (c) respectively represent the Efficient Multi-scale Context Aggregation (EMCA) and Modeling Global Representation (MGR) modules.
 
   ![image](https://github.com/AloneIsland/EMCAM-Net/blob/master/tool/EMCAM-Net.jpg)
 
